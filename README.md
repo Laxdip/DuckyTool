@@ -7,12 +7,11 @@ A Java tool to encode .txt scripts to .bin payloads and decode .bin back to .txt
 **Linux/Mac:** `./run.sh`  
 **Manual:** `javac src/*.java && java -cp src Main`
 
-## Screenshots
-
-![Encode](Ducky1.png) 
-![Before-After](input_vs_output.png)
-![Decode](Ducky3.png) 
-![Help](Ducky4.png)
+## 📸 Screenshots
+![Encode](screenshots/Ducky1.png) 
+![Before-After](screenshots/input_vs_output.png)
+![Decode](screenshots/Ducky3.png) 
+![Help](screenshots/Ducky4.png)
 
 ## Author
 PRASAD
