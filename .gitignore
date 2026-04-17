@@ -1,0 +1,21 @@
+# Java compiled files
+*.class
+*.jar
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build folders
+target/
+build/
+out/
+
+# Your specific output (optional)
+Xyz.bin
+Xyz.txt
