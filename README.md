@@ -15,4 +15,4 @@ A Java tool to encode .txt scripts to .bin payloads and decode .bin back to .txt
 ![Help](Ducky4.png)
 
 ## Author
-PRASAD | [github.com/Laxdip](https://github.com/Laxdip)
+PRASAD
