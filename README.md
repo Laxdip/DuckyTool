@@ -9,17 +9,9 @@ A Java tool to encode .txt scripts to .bin payloads and decode .bin back to .txt
 
 ## 📸 Screenshots
 
-**Encode Process**
-![Encode](screenshots/Ducky1.png)
-
-**Before vs After**
-![Before-After](screenshots/input_vs_output.png)
-
-**Decode Process**
-![Decode](screenshots/Ducky3.png)
-
-**Help Menu**
-![Help](screenshots/Ducky4.png)
+| Encode | Before vs After | Decode | Help |
+|--------|----------------|--------|------|
+| ![Encode](screenshots/Ducky1.png) | ![Before-After](screenshots/input_vs_output.png) | ![Decode](screenshots/Ducky3.png) | ![Help](screenshots/Ducky4.png) |
 
 ## Author
 PRASAD
