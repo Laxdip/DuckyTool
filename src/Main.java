@@ -78,7 +78,7 @@ public class Main {
 
         System.out.print(  "  │ Output binary file (.bin) : " + RESET);
         String outputFile = scanner.nextLine().trim();
-        System.out.println(CYAN + "  └────────────────────────────────────────────────────┘" + RESET);
+        System.out.println(CYAN + "  └───────────────────────────────────────────────────┘" + RESET);
 
         if (inputFile.isEmpty() || outputFile.isEmpty()) {
             System.out.println(RED + "\n  [ERROR] File paths cannot be empty.\n" + RESET);
@@ -95,7 +95,7 @@ public class Main {
 
         System.out.print(  "  │ Output script file (.txt) : " + RESET);
         String outputFile = scanner.nextLine().trim();
-        System.out.println(CYAN + "  └────────────────────────────────────────────────────┘" + RESET);
+        System.out.println(CYAN + "  └───────────────────────────────────────────────────┘" + RESET);
 
         if (inputFile.isEmpty() || outputFile.isEmpty()) {
             System.out.println(RED + "\n  [ERROR] File paths cannot be empty.\n" + RESET);
