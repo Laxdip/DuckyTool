@@ -228,10 +228,10 @@ public class Main {
         System.out.println(BOLD + "  ┌─────────────────────────────┐" + RESET);
         System.out.println(BOLD + "  │         MAIN MENU           │" + RESET);
         System.out.println(BOLD + "  ├─────────────────────────────┤" + RESET);
-        System.out.println(BOLD + "  │  " + GREEN + "1" + RESET + "  Encode  (.txt → .bin)" + BOLD + "  │" + RESET);
-        System.out.println(BOLD + "  │  " + GREEN + "2" + RESET + "  Decode  (.bin → .txt)" + BOLD + "  │" + RESET);
-        System.out.println(BOLD + "  │  " + GREEN + "3" + RESET + "  Exit                 " + BOLD + "  │" + RESET);
-        System.out.println(BOLD + "  │  " + GREEN + "4" + RESET + "  Help / Command List  " + BOLD + "  │" + RESET);
+        System.out.println(BOLD + "  │  " + GREEN + "1" + RESET + "  Encode  (.txt → .bin)" + BOLD + "   │" + RESET);
+        System.out.println(BOLD + "  │  " + GREEN + "2" + RESET + "  Decode  (.bin → .txt)" + BOLD + "   │" + RESET);
+        System.out.println(BOLD + "  │  " + GREEN + "3" + RESET + "  Exit                 " + BOLD + "   │" + RESET);
+        System.out.println(BOLD + "  │  " + GREEN + "4" + RESET + "  Help / Command List  " + BOLD + "   │" + RESET);
         System.out.println(BOLD + "  └─────────────────────────────┘" + RESET);
     }
 
