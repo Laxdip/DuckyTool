@@ -25,8 +25,9 @@ A Java tool to encode .txt scripts to .bin payloads and decode .bin back to .txt
 
 ---
 ## Requirements
-Java 11 or later
-Bash (Linux/macOS) or Command Prompt (Windows)
+
+- **Java 11** or later
+- **Bash** (Linux/macOS) or **Command Prompt** (Windows)
 
 ## Author
 PRASAD
