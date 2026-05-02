@@ -24,6 +24,9 @@ A Java tool to encode .txt scripts to .bin payloads and decode .bin back to .txt
 <img src="screenshots/Ducky4.png" width="600"><br>*Help Menu*
 
 ---
+## Requirements
+Java 11 or later
+Bash (Linux/macOS) or Command Prompt (Windows)
 
 ## Author
 PRASAD
