@@ -9,9 +9,12 @@
 .idea/
 .vscode/
 *.iml
+*.ipr
+*.iws
 .project
 .classpath
 .settings/
+.factorypath
 
 # OS junk
 .DS_Store
