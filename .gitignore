@@ -31,3 +31,14 @@ dist/
 # Logs
 *.log
 logs/
+
+# Config & secrets
+.env
+application-*.properties
+application-*.yml
+*.pem
+*.key
+
+# Package files
+node_modules/
+package-lock.json
