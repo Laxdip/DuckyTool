@@ -22,6 +22,9 @@ build/
 out/
 bin/
 
+# Logs
+*.log
+
 # Your specific output (optional)
 Xyz.bin
 Xyz.txt
