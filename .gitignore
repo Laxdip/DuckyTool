@@ -20,6 +20,7 @@ Thumbs.db
 target/
 build/
 out/
+bin/
 
 # Your specific output (optional)
 Xyz.bin
