@@ -8,6 +8,9 @@
 .idea/
 .vscode/
 *.iml
+.project
+.classpath
+.settings/
 
 # OS junk
 .DS_Store
