@@ -9,7 +9,7 @@ A Java tool to encode .txt scripts to .bin payloads and decode .bin back to .txt
 
 ## Screenshots
 
-<img src="screenshots/Ducky1.png" width="600"><br>*Encode Process*
+<img src="screenshots/Ducky1.png" width="600"><br> > Encode Process
 
 ---
 
